@@ -240,7 +240,7 @@ A new tool has been added to the database.
 
 The video below demonstrates the complete workflow of the hardware inventory app, including navigation, adding tools, and viewing the tools overview:
 
-[Hardware Inventory.mp4](Chadwick%E2%80%99s%20Hardware%20Inventory%20How-tos/Hardware_Inventory.mp4)
+[Hardware Inventory.gif](ExportBlock-5a4fb65c-495e-4ce8-bcaa-e56f958ac3f6-Part-1/Chadwick’s Hardware Inventory How-tos/Hardware Inventory.gif)
 
 ## 7. Publishing the app
 
