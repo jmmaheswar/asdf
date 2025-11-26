@@ -25,7 +25,7 @@ To access and edit the TW-2503 app, perform the following steps:
     
     1. Click on **TW-2503**
         
-        ![image.png](attachment:ec95068f-5b56-401e-8c06-573dd9bf5d2d:image.png)
+        ![image.png](ExportBlock-5a4fb65c-495e-4ce8-bcaa-e56f958ac3f6-Part-1/Chadwick’s Hardware Inventory How-tos/5bb70ec2-dd24-4d24-a914-482bd5a32fe9.png)
         
     2. Click **Edit In Studio Pro** to edit and extend the app functionalities.
         
